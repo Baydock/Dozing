@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 3935654347
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: dozingscene
+      Dependencies:
+        Dependency_0: dozingtextures
+    Info_1:
+      Name: sleepytowers
+      Dependencies: {}
+    Info_2:
+      Name: dozingtextures
+      Dependencies: {}
