@@ -1,0 +1,8 @@
+WorksOnVersion = "34.3";
+Name = "Dozing";
+Version = "1.0.0";
+Author = "Baydock";
+Description = "Adds a new map Dozing with a special twist: monkeys fall asleep after 5 rounds! Wake them up by turning on the lamposts in order to survive.";
+RepoName = "Dozing";
+RepoOwner = "Baydock";
+SquareIcon = true;
