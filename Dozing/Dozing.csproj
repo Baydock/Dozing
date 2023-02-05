@@ -31,6 +31,8 @@
 	  <EmbeddedResource Include="Resources\dozingscene" />
 	  <EmbeddedResource Include="Resources\dozingtextures" />
 	  <EmbeddedResource Include="Resources\sleepytowers" />
+		<EmbeddedResource Include="..\Icon.png" />
+		<EmbeddedResource Include="..\ModHelperData.txt" />
 	</ItemGroup>
 
 	<ItemGroup>
